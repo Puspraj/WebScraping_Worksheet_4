@@ -1,0 +1,39 @@
+Question Number, Correct Option, Answer
+
+1> a, get_by_name()
+
+2> d, All of the above
+
+3> b, Explicit wait
+
+4>
+
+5> d, all of the above
+
+6> d, all of the above
+
+7> d, both A & B
+
+8> c,  Hyper Text Markup Language
+
+9> b,  soup=BeautifulSoup(html_doc,’html.parser’)
+
+10> d, “html-xml”
+
+11> b, Find_all()
+
+12> c, get_siblings
+
+13> c, limit
+
+14> c,  recursive argument has no effect
+
+ Subjective answer
+
+15>Answer:- find(): This function in HTML Gets the first tag of the incoming HTML object
+                    that satisfies the condition and returns. A function of a label group
+                    or a single label. prototype of this function: find(tag,atributes,
+                    recursive,text, keywords). Indicates the type of tag you need to find.
+                    There can be multiple tags.
+         findAll(): Get all the conditions of the incoming HTML object and return it. 
+                    Prototype is findAll(tag, atributes, recursive, text, limit, kewords)
